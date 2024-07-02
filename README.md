@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   Hello, I'm Naman
 </h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">A passionate frontend and backend developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priya1229&label=Profile%20views&color=0e75b6&style=flat&color=151515" alt="priya1229" />
@@ -14,11 +14,11 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **React** and **Django** to enhance my full-stack development skills.
+- 🌱 I’m currently learning **React** and **Flutter** to enhance my full-stack development skills.
 
 - 🔭 I’m working on various personal projects to refine my coding abilities and contribute to open-source.
 
-- 📫 How to reach me: **priyarajak912@gmail.com**
+- 📫 How to reach me: **namansrivastava1608@gmail.com**
 
 - 💬 Ask me about **web development**, **backend technologies**, and **machine learning**.
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/priyarajak" target="blank">
+  <a href="https://linkedin.com/in/naman1608" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyarajak" height="30" width="40" />
   </a>
  
@@ -104,9 +104,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priya1229&show_icons=true&locale=en&layout=compact&theme=dark" alt="priya1229" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=un-identified&show_icons=true&locale=en&layout=compact&theme=dark" alt="un-identified" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priya1229&show_icons=true&locale=en&theme=dark" alt="priya1229" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=un-identified&show_icons=true&locale=en&theme=dark" alt="un-identified" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priya1229&theme=dark" alt="priya1229" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=un-identified&theme=dark" alt="un-identified" /></p>
