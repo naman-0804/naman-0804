@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend and backend developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priya1229&label=Profile%20views&color=0e75b6&style=flat&color=151515" alt="priya1229" />
+  <img src="https://komarev.com/ghpvc/?username=un-identified&label=Profile%20views&color=0e75b6&style=flat&color=151515" alt="un-identified" />
 </p>
 
 <p align="center">
@@ -20,9 +20,7 @@
 
 - 📫 How to reach me: **namansrivastava1608@gmail.com**
 
-- 💬 Ask me about **web development**, **backend technologies**, and **machine learning**.
-
-- ⚡ Fun fact: I love exploring new technologies and often find myself deep into documentation late at night!
+- ⚡ I love exploring new technologies and often find myself deep into solving a problem!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
