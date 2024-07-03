@@ -14,13 +14,13 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **React** and **Flutter** to enhance my full-stack development skills.
+- 🌱 I’m currently learning to enhance my full-stack development skills.
 
-- 🔭 I’m working on various personal projects to refine my coding abilities and contribute to open-source.
+- 🔭 I’m working on various personal projects and taking part in multiple hackathons to refine my coding abilities.
 
 - 📫 How to reach me: **namansrivastava1608@gmail.com**
 
-- ⚡ I love exploring new technologies and often find myself deep into solving a problem!
+- ⚡ I love exploring new things and often find myself deep into solving a problem!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
