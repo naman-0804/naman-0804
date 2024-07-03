@@ -1,5 +1,6 @@
 <img src="naman.gif"/>
 <h1 align="center">
+  Hi, I am Naman
 </h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
