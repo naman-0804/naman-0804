@@ -97,4 +97,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=un-identified&show_icons=true&locale=en&theme=dark" alt="un-identified" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=un-identified&theme=dark" alt="un-identified" /></p>
-<p><img src="generated/overview.svg"</p>
+<p><img src="https://github.com/un-identified/github-stats/blob/f687b60c1ec216663b9abca33df9839c2366aea9/generated/overview.svg"</p>
