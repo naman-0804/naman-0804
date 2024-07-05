@@ -89,6 +89,10 @@
   </a>
 </p>
 <h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=un-identified&layout=compact&theme=dark" alt="Top Languages" width="45%" />
+  <img src="https://github.com/un-identified/github-stats/blob/f687b60c1ec216663b9abca33df9839c2366aea9/generated/overview.svg" alt="Overview" width="45%" />
+</p>
 <table>
         <tr>
             <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=un-identified&show_icons=true&locale=en&layout=compact&theme=dark" alt="un-identified" /></td>
