@@ -91,8 +91,8 @@
 <h3 align="left">GitHub Stats:</h3>
 <table>
         <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=un-identified&show_icons=true&locale=en&layout=compact&theme=dark" alt="un-    identified" /></td>
-            <td><img src="https://github.com/un-identified/github-stats/blob/f687b60c1ec216663b9abca33df9839c2366aea9/generated/overview.svg" alt="un-identified" /></td>
+            <td><img style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=un-identified&show_icons=true&locale=en&layout=compact&theme=dark" alt="un-    identified" /></td>
+            <td><img style="margin-right: 10px;" src="https://github.com/un-identified/github-stats/blob/f687b60c1ec216663b9abca33df9839c2366aea9/generated/overview.svg" alt="un-identified" /></td>
         </tr>
         <tr>
             <td><img src="https://github-readme-stats.vercel.app/api?username=un-identified&show_icons=true&locale=en&theme=dark" alt="un-identified" /></td>
