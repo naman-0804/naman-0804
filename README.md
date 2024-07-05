@@ -89,7 +89,33 @@
   </a>
 </p>
 <h3 align="left">GitHub Stats:</h3>
-<table>
+    <style>
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 100%;
+            height: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        td {
+            width: 50%;
+            padding: 0;
+            margin: 0;
+            text-align: center;
+        }
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <table>
         <tr>
             <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=un-identified&show_icons=true&locale=en&layout=compact&theme=dark" alt="un-identified" /></td>
             <td><img src="https://github.com/un-identified/github-stats/blob/f687b60c1ec216663b9abca33df9839c2366aea9/generated/overview.svg" alt="un-identified" /></td>
@@ -99,4 +125,3 @@
             <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=un-identified&theme=dark" alt="un-identified" /></td>
         </tr>
     </table>
-
