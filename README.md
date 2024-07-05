@@ -88,24 +88,6 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
-<style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-        }
-        td {
-            width: 50%;
-            padding: 10px;
-            text-align: center;
-        }
-        .adjusted-width {
-            display: block;
-            width: 100%;
-            max-width: 90%;
-            margin-right: 5%;
-        }
-</style>
 <h3 align="left">GitHub Stats:</h3>
 <table>
         <tr>
