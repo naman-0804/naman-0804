@@ -89,50 +89,15 @@
   </a>
 </p>
 <h3 align="left">GitHub Stats:</h3>
-<style>
-        body {
-            background-color: #0d1117;
-            color: #c9d1d9;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-        .container {
-            display: flex;
-            flex-wrap: wrap;
-            width: 80%;
-            max-width: 800px;
-        }
-        .item {
-            flex: 1 1 50%;
-            padding: 5px;
-            box-sizing: border-box;
-        }
-        img {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
-</style>
-</head>
-<body>
-    <div class="container">
-        <div class="item">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=un-identified&show_icons=true&locale=en&layout=compact&theme=dark" alt="un-identified" />
-        </div>
-        <div class="item">
-            <img src="https://github.com/un-identified/github-stats/blob/f687b60c1ec216663b9abca33df9839c2366aea9/generated/overview.svg" alt="un-identified" />
-        </div>
-        <div class="item">
-            <img src="https://github-readme-stats.vercel.app/api?username=un-identified&show_icons=true&locale=en&theme=dark" alt="un-identified" />
-        </div>
-        <div class="item">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=un-identified&theme=dark" alt="un-identified" />
-        </div>
-    </div>
+<table>
+        <tr>
+            <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=un-identified&show_icons=true&locale=en&layout=compact&theme=dark" alt="un-identified" /></td>
+            <td><img src="https://github.com/un-identified/github-stats/blob/f687b60c1ec216663b9abca33df9839c2366aea9/generated/overview.svg" alt="un-identified" /></td>
+        </tr>
+        <tr>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=un-identified&show_icons=true&locale=en&theme=dark" alt="un-identified" /></td>
+            <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=un-identified&theme=dark" alt="un-identified" /></td>
+        </tr>
+    </table>
+
 
