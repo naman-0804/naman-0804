@@ -89,7 +89,7 @@
   </a>
 </p>
 <h3 align="left">GitHub Stats:</h3>
-    <style>
+<style>
         body {
             background-color: #0d1117;
             color: #c9d1d9;
@@ -118,7 +118,7 @@
             height: auto;
             display: block;
         }
-    </style>
+</style>
 </head>
 <body>
     <div class="container">
