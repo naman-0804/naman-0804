@@ -94,9 +94,4 @@
   <img src="https://github.com/un-identified/github-stats/blob/output/generated/overview.svg" alt="Overview" width="45%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=un-identified&show_icons=true&theme=dark" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=un-identified&theme=dark" alt="Streak" width="45%" />
-</p>
-
 
