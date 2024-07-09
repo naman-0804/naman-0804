@@ -85,14 +85,14 @@
 </p>
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github.com/un-identified/github-stats/blob/output/generated/languages.svg" alt="Top Languages" width="70%" height="150%" />
+  <img src="https://github.com/un-identified/github-stats/blob/output/generated/languages.svg" alt="Top Languages" width="150%" height="150%" />
 </p>
 <p align="center">
-    <img src="https://github.com/un-identified/github-stats/blob/output/generated/overview.svg" alt="Overview" width="70%" height="150%"/>
+    <img src="https://github.com/un-identified/github-stats/blob/output/generated/overview.svg" alt="Overview" width="150%" height="150%"/>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=un-identified&theme=darkhub" alt="un-identified" />
+    <img src="https://github-profile-trophy.vercel.app/?username=un-identified&theme=darkhub" alt="un-identified"  />
   </a>
 </p>
 
