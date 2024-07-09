@@ -92,7 +92,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=un-identified&theme=darkhub" alt="un-identified"  />
+    <img src="https://github-profile-trophy.vercel.app/?username=un-identified&theme=darkhub" alt="un-identified" height="1500" />
   </a>
 </p>
 
