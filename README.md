@@ -88,7 +88,7 @@
   <img src="https://github.com/un-identified/github-stats/blob/output/generated/languages.svg" alt="Top Languages" width="70%" />
 </p>
 <p align="center">
-    <img src="https://github.com/un-identified/github-stats/blob/output/generated/overview.svg" alt="Overview" width="70%" height="100%"/>
+    <img src="https://github.com/un-identified/github-stats/blob/output/generated/overview.svg" alt="Overview" width="70%"/>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
