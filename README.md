@@ -85,9 +85,8 @@
 </p>
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github.com/un-identified/github-stats/blob/output/generated/languages.svg" alt="Top Languages" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=un-identified&show_icons=true&hide=issues&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Naman's GitHub stats" />
-</a>
+  <img src="https://github.com/un-identified/github-stats/blob/output/generated/languages.svg" alt="Top Languages" width="150%" height="150%" />
+
 </p>
 <p align="center">
     <img src="https://github.com/un-identified/github-stats/blob/output/generated/overview.svg" alt="Overview" width="150%" height="150%"/>
