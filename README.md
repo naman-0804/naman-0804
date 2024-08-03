@@ -61,7 +61,7 @@
 
 - Badge
 <a href="https://www.credly.com/badges/37ba5395-d0ee-4b2c-92c8-96d212fed07d/public_url" target="_blank">
-  <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Credly Badge" width="150" height="150">
+  <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Credly Badge" width="150" height="100">
 </a>
 <br/>
 
