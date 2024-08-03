@@ -63,6 +63,9 @@
 <a href="https://www.credly.com/badges/37ba5395-d0ee-4b2c-92c8-96d212fed07d/public_url" target="_blank">
   <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Credly Badge" width="100" height="100">
 </a>
+<a href="https://www.credly.com/badges/494fd005-0de2-44f7-b56c-c43424e1c94d/public_url" target="_blank">
+  <img src="42aekdJSFWXCwxRKNEY3ye2AkV3YHuAfGdjF6wUS7dV2NU2p26gZWCYGruYrp1HKxMDt8ZwnqxPBrGJG44jm6XnMEdtH15K" alt="Credly Badge" width="100" height="100">
+</a>
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
