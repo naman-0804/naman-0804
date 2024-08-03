@@ -58,8 +58,9 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
   </a>
 </p>
-- Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="37ba5395-d0ee-4b2c-92c8-96d212fed07d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+- Badge
+- ![Credly Badge](https://www.credly.com/badges/37ba5395-d0ee-4b2c-92c8-96d212fed07d/public_url)
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
