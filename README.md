@@ -18,6 +18,8 @@
   <a href="https://linkedin.com/in/naman1608" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="un-identified" height="30" width="40" />
   </a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="naman1608" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/naman1608?trk=profile-badge">Naman Srivastava</a></div>
+              
  
 </p>
 <br>
