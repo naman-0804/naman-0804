@@ -81,7 +81,7 @@
     <img src="https://github.com/un-identified/github-stats/blob/output/generated/overview.svg" alt="Overview" width="150%" height="150%"/>
 </p>
 <p align="center">
-    <img src="https://github.com/un-identified/un-identified/profile-3d-contrib/profile-night-green.svg" alt="Overview" width="150%" height="150%"/>
+    <img src="https://github.com/un-identified/un-identified/blob/main/profile-3d-contrib/profile-night-green.svg" alt="Overview" width="150%" height="150%"/>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
