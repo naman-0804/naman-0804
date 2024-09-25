@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/naman1608" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="un-identified" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-0804" height="30" width="40" />
   </a>
 
               
@@ -74,18 +74,18 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github.com/un-identified/github-stats/blob/output/generated/languages.svg" alt="Top Languages" width="150%" height="150%" />
+  <img src="https://github.com/naman-0804/github-stats/blob/output/generated/languages.svg" alt="Top Languages" width="150%" height="150%" />
 
 </p>
 <p align="center">
-    <img src="https://github.com/un-identified/github-stats/blob/output/generated/overview.svg" alt="Overview" width="150%" height="150%"/>
+    <img src="https://github.com/naman-0804/github-stats/blob/output/generated/overview.svg" alt="Overview" width="150%" height="150%"/>
 </p>
 <p align="center">
-    <img src="https://github.com/un-identified/un-identified/blob/main/profile-3d-contrib/profile-night-green.svg" alt="Overview" width="150%" height="150%"/>
+    <img src="https://github.com/naman-0804/naman-0804/blob/main/profile-3d-contrib/profile-night-green.svg" alt="Overview" width="150%" height="150%"/>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=un-identified&theme=darkhub" alt="un-identified"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=naman-0804&theme=darkhub" alt="naman-0804"/>
   </a>
 </p>
 
