@@ -88,8 +88,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=naman-0804&theme=darkhub" alt="naman-0804"/>
   </a>
 </p>
-**# Todoist Stats**
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- TODO-IST:START -->
+<h2 style="font-size: 36px; font-weight: bold;">Todoist Stats</h2>
 <table>
     <tr>
         <td style="border: 2px solid #4CAF50; padding: 10px;">🏆 Karma Points</td>
