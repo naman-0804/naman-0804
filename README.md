@@ -92,7 +92,7 @@
 <!-- TODO-IST:START -->
 <table>
     <tr>
-        <th style="border: 2px solid #4CAF50; padding: 10px; background-color: #f2f2f2;">Task Summary</th>
+        <style="border: 2px solid #4CAF50; padding: 10px; background-color: #f2f2f2;">Task Summary/>
     </tr>
     <tr>
         <td style="border: 2px solid #4CAF50; padding: 10px;">🏆 Karma Points</td>
