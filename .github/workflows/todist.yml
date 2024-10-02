@@ -3,7 +3,6 @@ name: Todoist Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every minute
     - cron: "0 0 */2 * *"
 
 jobs:
@@ -13,6 +12,47 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: abhisheknaiidu/todoist-readme@master
+        id: todoist
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
           PREMIUM: ""
+
+      - name: Construct HTML Table
+        id: construct_table
+        run: |
+          # Define the variables you want to use in the table
+          KARMA_POINTS="5,894"
+          COMPLETED_TODAY="1"
+          COMPLETED_TOTAL="212"
+          LONGEST_STREAK="4 days"
+
+          # Construct the HTML table
+          echo '<table>' > README.md
+          echo '    <tr>' >> README.md
+          echo '        <th style="border: 2px solid #4CAF50; padding: 10px; background-color: #f2f2f2;">Task Summary</th>' >> README.md
+          echo '    </tr>' >> README.md
+          echo '    <tr>' >> README.md
+          echo '        <td style="border: 2px solid #4CAF50; padding: 10px;">🏆 Karma Points</td>' >> README.md
+          echo "        <td style=\"border: 2px solid #4CAF50; padding: 10px;\">${KARMA_POINTS}</td>" >> README.md
+          echo '    </tr>' >> README.md
+          echo '    <tr>' >> README.md
+          echo '        <td style="border: 2px solid #4CAF50; padding: 10px;">🌸 Completed Tasks Today</td>' >> README.md
+          echo "        <td style=\"border: 2px solid #4CAF50; padding: 10px;\">${COMPLETED_TODAY}</td>" >> README.md
+          echo '    </tr>' >> README.md
+          echo '    <tr>' >> README.md
+          echo '        <td style="border: 2px solid #4CAF50; padding: 10px;">✅ Completed Tasks So Far</td>' >> README.md
+          echo "        <td style=\"border: 2px solid #4CAF50; padding: 10px;\">${COMPLETED_TOTAL}</td>" >> README.md
+          echo '    </tr>' >> README.md
+          echo '    <tr>' >> README.md
+          echo '        <td style="border: 2px solid #4CAF50; padding: 10px;">⏳ Longest Streak</td>' >> README.md
+          echo "        <td style=\"border: 2px solid #4CAF50; padding: 10px;\">${LONGEST_STREAK}</td>" >> README.md
+          echo '    </tr>' >> README.md
+          echo '</table>' >> README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "you@example.com"
+          git config --local user.name "Your Name"
+          git add README.md
+          git commit -m "Update README with Todoist stats"
+          git push
