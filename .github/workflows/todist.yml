@@ -7,24 +7,24 @@ on:
 
 jobs:
   update-readme:
-    name: Update todoist stats
+    name: Update Todoist stats
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: abhisheknaiidu/todoist-readme@master
-        id: todoist
+
+      - id: todoist
+        uses: abhisheknaiidu/todoist-readme@master
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
           PREMIUM: ""
 
       - name: Construct HTML Table
-        id: construct_table
         run: |
-          # Define the variables you want to use in the table
-          KARMA_POINTS="5,894"
-          COMPLETED_TODAY="1"
-          COMPLETED_TOTAL="212"
-          LONGEST_STREAK="4 days"
+          # Fetch values from the output of the todoist action
+          KARMA_POINTS=$(echo "${{ steps.todoist.outputs.karma_points }}" | tr -d '\r')
+          COMPLETED_TODAY=$(echo "${{ steps.todoist.outputs.completed_today }}" | tr -d '\r')
+          COMPLETED_TOTAL=$(echo "${{ steps.todoist.outputs.completed }}" | tr -d '\r')
+          LONGEST_STREAK=$(echo "${{ steps.todoist.outputs.longest_streak }}" | tr -d '\r')
 
           # Construct the HTML table
           echo '<table>' > README.md
