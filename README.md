@@ -90,25 +90,9 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- TODO-IST:START -->
-<h2 style="font-size: 36px; font-weight: bold;">Todoist Stats</h2>
-<table>
-    <tr>
-        <td style="border: 2px solid #4CAF50; padding: 10px;">🏆 Karma Points</td>
-        <td style="border: 2px solid #4CAF50; padding: 10px;">5,894</td>
-    </tr>
-    <tr>
-        <td style="border: 2px solid #4CAF50; padding: 10px;">🌸 Completed Tasks Today</td>
-        <td style="border: 2px solid #4CAF50; padding: 10px;">1</td>
-    </tr>
-    <tr>
-        <td style="border: 2px solid #4CAF50; padding: 10px;">✅ Completed Tasks So Far</td>
-        <td style="border: 2px solid #4CAF50; padding: 10px;">212</td>
-    </tr>
-    <tr>
-        <td style="border: 2px solid #4CAF50; padding: 10px;">⏳ Longest Streak</td>
-        <td style="border: 2px solid #4CAF50; padding: 10px;">4 days</td>
-    </tr>
-</table>
-
+🏆  5,906 Karma Points           
+🌸  Completed 1 tasks today           
+✅  Completed 212 tasks so far           
+⏳  Longest streak is 4 days
 <!-- TODO-IST:END -->
 
