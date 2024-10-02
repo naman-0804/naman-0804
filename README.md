@@ -90,25 +90,25 @@
 </p>
 # Todoist Stats
 <!-- TODO-IST:START -->
-<table style="width: 400px;"> 
+<table>
     <tr>
-        <th style="border: 2px solid #4CAF50; padding: 15px; background-color: #f2f2f2; font-size: 18px;">Task Summary</th>
+        <th style="border: 2px solid #4CAF50; padding: 10px; background-color: #f2f2f2;">Task Summary</th>
     </tr>
     <tr>
-        <td style="border: 2px solid #4CAF50; padding: 15px; font-size: 16px;">🏆 Karma Points</td>
-        <td style="border: 2px solid #4CAF50; padding: 15px; font-size: 16px;">5,894</td>
+        <td style="border: 2px solid #4CAF50; padding: 10px;">🏆 Karma Points</td>
+        <td style="border: 2px solid #4CAF50; padding: 10px;">5,894</td>
     </tr>
     <tr>
-        <td style="border: 2px solid #4CAF50; padding: 15px; font-size: 16px;">🌸 Completed Tasks Today</td>
-        <td style="border: 2px solid #4CAF50; padding: 15px; font-size: 16px;">1</td>
+        <td style="border: 2px solid #4CAF50; padding: 10px;">🌸 Completed Tasks Today</td>
+        <td style="border: 2px solid #4CAF50; padding: 10px;">1</td>
     </tr>
     <tr>
-        <td style="border: 2px solid #4CAF50; padding: 15px; font-size: 16px;">✅ Completed Tasks So Far</td>
-        <td style="border: 2px solid #4CAF50; padding: 15px; font-size: 16px;">212</td>
+        <td style="border: 2px solid #4CAF50; padding: 10px;">✅ Completed Tasks So Far</td>
+        <td style="border: 2px solid #4CAF50; padding: 10px;">212</td>
     </tr>
     <tr>
-        <td style="border: 2px solid #4CAF50; padding: 15px; font-size: 16px;">⏳ Longest Streak</td>
-        <td style="border: 2px solid #4CAF50; padding: 15px; font-size: 16px;">4 days</td>
+        <td style="border: 2px solid #4CAF50; padding: 10px;">⏳ Longest Streak</td>
+        <td style="border: 2px solid #4CAF50; padding: 10px;">4 days</td>
     </tr>
 </table>
 
