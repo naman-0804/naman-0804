@@ -91,8 +91,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2 style="font-size: 36px; font-weight: bold;">Todoist Stats</h2>
 <!-- TODO-IST:START -->
-🏆  5,906 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 212 tasks so far           
+🏆  5,990 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 218 tasks so far           
 ⏳  Longest streak is 4 days
 <!-- TODO-IST:END -->
