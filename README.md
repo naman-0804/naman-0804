@@ -89,4 +89,4 @@
   </a>
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<a href="https://app.daily.dev/naman_0804"><img src="https://api.daily.dev/devcards/v2/Yzg3VLFBbgT3pBKpijiIb.png?type=default&r=t8g" width="356" alt="Naman Srivastava's Dev Card"/></a>
+<a href="https://app.daily.dev/naman_0804"><img src="https://api.daily.dev/devcards/v2/Yzg3VLFBbgT3pBKpijiIb.png?type=wide&r=q0k" width="652" alt="Naman Srivastava's Dev Card"/></a>
