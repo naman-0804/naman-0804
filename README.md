@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend and backend developer</h3>
 
 
-- 🌱 I’m currently learning to enhance my full-stack development skills.
+- 🌱 I’m currently learning to enhance my full-stack development and cloud computing skills.
 
 - 🔭 I’m working on various personal projects and taking part in multiple hackathons to refine my coding abilities.
 
