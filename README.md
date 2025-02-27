@@ -12,6 +12,8 @@
 - 📫 How to reach me: **namansrivastava1608@gmail.com**
 
 - ⚡ I love exploring new things and often find myself deep into solving a problem!
+  
+- 🔎 My Portfolio - https://namansrivastava.is-a.dev/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
