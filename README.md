@@ -85,8 +85,3 @@
 <p align="center">
     <img src="https://github.com/naman-0804/naman-0804/blob/main/profile-3d-contrib/profile-night-green.svg" alt="Overview" width="150%" height="150%"/>
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=naman-0804&theme=darkhub" alt="naman-0804"/>
-  </a>
-</p>
