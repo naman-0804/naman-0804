@@ -11,14 +11,20 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
+      
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}  
-          USERNAME: naman-0804 
-      - name: Commit & Push
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+          USERNAME: naman-0804
+      
+      - name: Commit & Push (only if changes)
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "generated"
+            git push
+          fi
