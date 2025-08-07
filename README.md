@@ -70,6 +70,9 @@
 <a href="https://www.credly.com/badges/494fd005-0de2-44f7-b56c-c43424e1c94d/public_url" target="_blank">
   <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Credly Badge" width="85" height="85">
 </a>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=50702E8A1A5FEB6084C208DED69627E4B6C12341DF8D87508F20FB4498DC29D8" target="_blank">
+  <img src="https://images.credly.com/images/3d92e4a1-3f46-4368-97bc-e4390ff15c3e/OCI25FNDCFAV1_cached_image_20250807-32-u83aaq.png" alt="Credly Badge" width="85" height="85">
+</a>
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
