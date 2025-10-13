@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi, I am Naman
 </h1>
-<h3 align="center">A passionate frontend , backend and cloud developer</h3>
+<h3 align="center">A passionate frontend , backend , cloud and ML developer</h3>
 
 
 - 🌱 I’m currently learning to enhance my full-stack development and cloud computing skills.
