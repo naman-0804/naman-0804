@@ -85,6 +85,4 @@
 <p align="center">
     <img src="https://github.com/naman-0804/github-stats/blob/output/generated/overview.svg" alt="Overview" width="150%" height="150%"/>
 </p>
-<p align="center">
-    <img src="https://github.com/naman-0804/naman-0804/blob/main/profile-3d-contrib/profile-night-green.svg" alt="Overview" width="150%" height="150%"/>
-</p>
+
