@@ -25,42 +25,6 @@
 </p>
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,flask,express" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,materialui" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,firebase,vercel" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  </a>
-</p>
 
 - Badge
 <a href="https://www.credly.com/badges/37ba5395-d0ee-4b2c-92c8-96d212fed07d/public_url" target="_blank">
