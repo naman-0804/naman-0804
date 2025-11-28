@@ -1,4 +1,3 @@
-<img src="naman.gif"/>
 <h1 align="center">
   Hi, I am Naman
 </h1>
